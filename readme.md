@@ -39,4 +39,4 @@ Saving the predicted labels in a CSV file named 'group10_output.csv'
 
 
 -------------------------Contact Information----------------------
-For any queries or feedback, please contact the author: Mohd Shakir(mohdshakir02003@fmail.com)
+For any queries or feedback, please contact the author: Mohd Shakir(mohdshakir02003@gmail.com)
